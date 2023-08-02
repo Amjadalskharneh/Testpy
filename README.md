@@ -1,2 +1,1 @@
-# Testpy
-Test
+print “test”
